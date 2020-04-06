@@ -1,0 +1,4 @@
+libpng.lib
+libpngd.lib
+zlibstat.lib
+zlibstatd.lib
